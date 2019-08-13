@@ -30,10 +30,11 @@ def complete_form():
 
     if my_credentials.candidate_no in str(web_content): # if final page consists of results with the current year's candidate no. (not previous year's), it's time
         send_message_to_bot("Hey guys, results are out! Y'all might wanna check it. All the best to everyone!")
+        send_message_to_bot("Faster go and check")
         exit(0) # kills whole script and bot as well, since work is done
 
     else: # anything else, falls under this condition
-        send_message_to_bot("Results are not out yet, chill & have one more shot of whiskey.")
+        send_message_to_bot("Results are not out yet, chill and have one more shot of whiskey.")
 
     time.sleep(300) # 5mins interval so that UOL international's website doesn't end up with a DoS attack or something...
 
