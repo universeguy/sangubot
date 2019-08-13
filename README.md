@@ -15,19 +15,19 @@ Breakdown is as follows:
 
 - username
 
-<p>Replace with your UOL VLE login, e.g. `'mhk12'`</p>
+<p>Replace with your UOL VLE login, e.g. 'mhk12'</p>
 
 - candidate_no
 
-<p>Replace with your Admission Notice candidate number, e.g. `'N38291'`</p>
+<p>Replace with your Admission Notice candidate number, e.g. 'N38291'</p>
 
 - day
 
-<p>Birthday (DD), `'2'` if you're born on the 2nd.</p>
+<p>Birthday (DD), '2' if you're born on the 2nd.</p>
 
 - month
 
-<p>Birthmonth (MM/M), `'1'` if your birthmonth is January.</p>
+<p>Birthmonth (MM/M), '1' if your birthmonth is January.</p>
 
 - year
 
