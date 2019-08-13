@@ -39,7 +39,7 @@ Python has to be installed on your machine, from https://www.python.org/download
 Finally, to run the script, type this: `python results.py`
 
 # Acknowledgments
-This script is just an updated version of [Phone's version](https://github.com/phonethantko/uolresults2018). Documentations of the various libaries were of tremendous help as well.
+This script is just an updated version of [Phone's version](https://github.com/phonethantko/uolresults2018), since UOL altered their site a little. Documentations of the various libaries were of tremendous help as well.
 
 # Disclaimer
-Please take note that this script has to be run on your own risk, be responsible for your own credentials and data. The interval has been set to a safe period of 5 minutes to avoid any issues with request issues.
+Please take note that this script has to be run on your own risk, be responsible for your own credentials and data. The interval has been set to a safe period of 5 minutes to avoid any issues with request issues. This was a project done on my free time, feel free to commit changes and discuss with me on Telegram @hrisnkr.
