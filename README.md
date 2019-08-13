@@ -2,7 +2,7 @@
 Python script to automate form filling for UOL results while notifying the release of results. This tutorial will go over the creation of a new Telegram bot for your Telegram group, and the further configuration to link it up with the script to get notifications The idea of this script is to automate tedious process of repeatedly the filling out the details to check if the results for the academic year is out. The form will be filled out and submitted every **5 minutes**.
 
 # Getting started
-Firstly, the `credentials.py has` to be filled in with one's credentials before running `results.py`.
+Firstly, the `credentials.py` has to be filled in with one's credentials before running `results.py`.
 Breakdown is as follows:
 
 - bot_token
@@ -11,7 +11,7 @@ Breakdown is as follows:
 
 - bot_chatID
 
-<p>Assuming you want a bot to notify you and your coursemates in a group, you have to get the ID of the group chat that your bot is a a part of. Add @getmyid_bot as a new number into your target group, and copy the chat ID into credentials.py</p>
+<p>Assuming you want a bot to notify you and your coursemates in a group, you have to get the ID of the group chat that your bot is a part of. Add @getmyid_bot as a new member into your target group, and copy the chat ID into credentials.py</p>
 
 - username
 
